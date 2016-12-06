@@ -1,0 +1,6 @@
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
